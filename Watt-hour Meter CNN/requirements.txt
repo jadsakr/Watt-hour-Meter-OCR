@@ -1,0 +1,16 @@
+# opencv-python==4.1.1.26
+lxml
+tqdm
+tensorflow==2.3.0rc0
+absl-py
+easydict
+matplotlib
+pillow
+easyocr
+multiprocess
+numpy
+os_sys
+scipy
+scikit-image
+pandas
+times
